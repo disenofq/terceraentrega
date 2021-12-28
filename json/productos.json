@@ -1,0 +1,5 @@
+[
+    {"id":1, "type": "mate", "style": "flores", "price": 500, "stock": 50},
+    {"id":2, "type": "bombilla", "style": "alpaca", "price": 300, "stock": 50},
+    {"id":3, "type": "cazuela", "style": "barro", "price": 400, "stock": 30}
+]
